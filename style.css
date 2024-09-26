@@ -1,0 +1,21 @@
+:root {
+    --header-footer: #3A6D8C;
+    --text-header-footer: #EAD8B1;
+    --text-tittle: #001F3F;
+    --background-color: #EAD8B1;
+    --card: #3A6D8C;
+    --text: #6A9AB0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+.backdrop-blur-navbar {
+    background-color: rgba(58, 109, 140, 0.8);
+    backdrop-filter: blur(10px);
+}
+.logo-custom {
+    height: 90px;
+    width: auto;
+    max-height: 100px;
+}
